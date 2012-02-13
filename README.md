@@ -4,4 +4,4 @@ This is a custom theme I threw together using pastel colors. It is still a work 
 ![Screenshot](https://github.com/eriksundahl/limechat_pastel/blob/master/screenshot.png?raw=true "Screenshot")
 
 ## Install
-In order to install the theme just download the files and put them in ~/Library/Application Support/LimeChat/ You choose the Pastel theme from LimeChat preferences. 
+In order to install the theme just download the files and put them in ~/Library/Application Support/LimeChat/ then you choose the Pastel theme from LimeChat preferences. 
